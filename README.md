@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 💻 I’m currently working on 🏔 Everst Architecture - Mobile Architecture 📱 - Frontend Platforms - Technology
+- 🤘 I'm a lover of metal music
+- ⚫🤖⚔️ I'm a Star Wars, Thundercats, TMNT, Friday the 13th, Robocop, Critters and SilverHawks fan
+- ⚽ I'm great fan of Club Nacional the Football 🔴🔵⚪ and Real Madrid ⚪⚪⚪
 <!--
 **oilladaMELI/oilladaMELI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
